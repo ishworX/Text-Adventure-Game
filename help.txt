@@ -1,0 +1,25 @@
+RULES for Infinity Quest!!!
+Please read all RULES!!!!!
+
+1. All string inputs must have a capitalized first letter, unless puzzle related
+2. In order to enter treasure room, you must beat the world puzzle & fighting rooms.
+3. The game has many ways of ending.
+  a) dying results in the game ending, you will lose all of your progress.
+  b) If you type "Quit", game will end, you will lose all of your progress.
+  c) If the player collects all four artifacts you will finish the game and win.
+4. Here's the general map layout for the entire game
+
+                   Earth(T) - - - Earth(P) - - - Earth(F)
+                                     |
+                                  Earth(W)
+Jupiter(P)                           |                       Mars(T)
+   |                                 |                         |
+Jupiter(F)  - Jupiter(W)  - - - -  Ship  - - - - Mars(W) - - Mars(P)
+   |                                 |                         |
+Jupiter(T)                           |                       Mars(F)
+                                   Pluto(W)
+                                     |
+                   Pluto(P) - - - Pluto(F) - - - Pluto(T)
+
+5. HIGHLY RECOMMENDED PATH: Earth -> Mars -> Jupiter -> Pluto
+6. Go to Treasure Room after completing the world's respective fighting & puzzle room to claim artifact.
